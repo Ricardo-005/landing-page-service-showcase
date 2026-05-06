@@ -3,7 +3,7 @@
 A professional, lightweight, and modern landing page designed to showcase services and convert visitors into clients. This project demonstrates clean coding practices and mobile-first design.
 
 ## 🚀 Live Demo
-[Insert your GitHub Pages link here]
+[[Insert your GitHub Pages link here](https://ricardo-005.github.io/landing-page-service-showcase/)]
 
 ## ✨ Key Features
 *   *Fully Responsive:* Optimized for mobile, tablet, and desktop views.
