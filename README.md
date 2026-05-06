@@ -17,4 +17,4 @@ A professional, lightweight, and modern landing page designed to showcase servic
 *   *JavaScript (ES6+)* - Interactivity and form handling.
 
 ## 📩 Contact
-Looking for a custom landing page? Let's talk on [Upwork]([Insert Your Upwork Profile Link](https://www.upwork.com/freelancers/~01b886fae355553628?companyReference=2047477432136778329&mp_source=share))
+Looking for a custom landing page? Let's talk on [Upwork](https://www.upwork.com/freelancers/~01b886fae355553628?companyReference=2047477432136778329&mp_source=share)
